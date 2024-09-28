@@ -1,3 +1,4 @@
+
 # House Price Prediction using Linear Regression
 
 ## Project Overview
@@ -34,6 +35,7 @@ A linear regression model was implemented to predict the house prices. The steps
 
 1. **Data Preprocessing**: Cleaning the dataset and handling missing values.
 2. **Feature Engineering**: Selecting and preparing the features for the model.
+I am editing the README file. Adding some more details about the project description.
 3. **Model Training**: Training the linear regression model on the dataset.
 4. **Model Evaluation**: Evaluating the model's performance using appropriate metrics.
 
